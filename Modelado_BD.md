@@ -15,14 +15,15 @@ Un modelo, una representación gráfica, de bases de datos muestra la estructura
 
 ### Modelo jerárquico<a name="mod1"></a>  
 
-Organiza los datos en una estructura de árbol, en la que cada registro tiene un único elemento raíz. los registros del mimo nivel se clasifican en un orden específico el cual se usa para almacenar la base de datos. Este modelo ayuda a describir muchas relaciones del mundo real.
+Organiza los datos en una estructura de árbol, en la que cada registro tiene un único elemento raíz. los registros del mimo nivel se clasifican en un orden específico el cual se usa para almacenar la base de datos. Este modelo ayuda a describir muchas relaciones del mundo real.  
 
-![Modelo Jerárquico](/img/hierarchical-model.png)
+<img src="/img/hierarchical-model.png" width="100" >
 
 ### Modelo relacional<a name="mod2"></a>  
 
-Ordena los datos en tablas, relaciones, cada una de las cuales se compone de columnas y filas. Cada columna enumera un atributo de la entidad en cuestión. Se hace uso de un atributo o varios para las llamadas llaves primarias y foraneas para hacer referencia en otras tablas. Cada fila, tupla, incluye datos sobre una instancia específica de la entidad en cuestión. Las relaciones pueden ser uno a uno, uno a muchos y muchos a muchos.
-![Modelo Relaciona](/img/relational-model.png)
+Ordena los datos en tablas, relaciones, cada una de las cuales se compone de columnas y filas. Cada columna enumera un atributo de la entidad en cuestión. Se hace uso de un atributo o varios para las llamadas llaves primarias y foraneas para hacer referencia en otras tablas. Cada fila, tupla, incluye datos sobre una instancia específica de la entidad en cuestión. Las relaciones pueden ser uno a uno, uno a muchos y muchos a muchos.  
+
+<img src="/img/relational-model.png" width="100" >
 
 ### Modelo de red<a name="mod3"></a>  
 
