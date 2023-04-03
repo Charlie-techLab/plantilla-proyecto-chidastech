@@ -1,7 +1,7 @@
 [Página anterior](Introduccion_SQL.md)
 
 # Modelado de bases de datos
-Un modelo, una representación gráfica, de bases de datos muestra la estructura lógica de la base, las relaciones entre tablas y las limitaciones que determinan cómo se almacenan los datos y cómo se accede a ellos.  
+Un modelo, una representación gráfica, de bases de datos muestra la estructura lógica de la base, las relaciones entre tablas y las limitaciones que determinan cómo se almacenan los datos y cómo se accede a ellos.[1](#Referencia1)  
 
 ## Tipos de modelados de bases de datos
 
@@ -49,6 +49,6 @@ Es un modelo empleado para bases de datos no SQL el cual se diseña para almacen
 Similar al modelo entidad-relación con la diferencia en que agregan los atributos de las entidades y los posibles valores.  
 
 ## Referencias:
-- https://www.lucidchart.com/pages/es/que-es-un-modelo-de-base-de-datos
+[1] <a name="Referencia1"></a> https://www.lucidchart.com/pages/es/que-es-un-modelo-de-base-de-datos 
 
 [Página siguiente](Consultas_SQL.md)
