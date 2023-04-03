@@ -32,4 +32,4 @@ Para optimizar una base de datos se puden seguir los siguiente pasos:
 * https://actions.es/como-optimizar-una-base-de-datos/
 
 
-[Página siguiente](Integración_SQL.md)
+[Página siguiente](Integracion_SQL.md)
