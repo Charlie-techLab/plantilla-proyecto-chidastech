@@ -4,9 +4,9 @@ Este blog abarca los temas introductorios de SQL. <img src="https://e7.pngegg.co
 ## Índice
 
 1. **[Introducción a SQL](Introduccion_SQL.md)**
-2. **Modelado de bases de datos**
-3. **Consultas con SQL**
-4. **Optimización de bases de datos**
-5. **Integración de SQL con otros lenguajes de programación** 
+2. **[Modelado de bases de datos](Modelado_BD.md)**
+3. **[Consultas con SQL](Consultas_SQL.md)**
+4. **[Optimización de bases de datos](Optimizacion_BD.md)**
+5. **[Integración de SQL con otros lenguajes de programación](Integracion_SQL.md)** 
 
  
