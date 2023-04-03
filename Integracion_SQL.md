@@ -1,3 +1,5 @@
+[Página anterior](Optimizacion_BD.md)
+
 # Integración de SQL con otros lenguajes de programación
 Como se dijo anteriormente SQL es un lenguaje de programación que permite manipular datos y bases de datos relacionales. Existen sistemas de gestion como MySQL, PostgreSQL y SQL Server los cuales nos permiten modificar la base de datos sin la necesidad de emplear un programa externo.  
 
@@ -5,12 +7,12 @@ Como se dijo anteriormente SQL es un lenguaje de programación que permite manip
 Cuando se instala SQL en un equipo, se genera un servidor SQL que se almacena en localhost. Hay opciones SQL que no estan instaladas en el equipo sino que se accede a travez de la nube pero la conexión es muy similar.  
 Para hacer la conexión con las bases de datos cada lenguaje tiene su propia sintaxis pero en general es como conectarse con un servidor usando la ip, el puerto, el usuario y la contraseña del servidor que se crearon en la instalación. Se recomienda no usar el Usuario Raiz (root) para dichas conexiones, sino que se cree un usuario diferente que tenga los permisos para editar las tablas a las que se van a acceder.  
 
-| Data		| Valor 				|
-|-----------|-----------------------|
-| IP 		| "localhost"-127.0.0.1 |
-| Puerto	| 3306 (MySQL)			|
-| Usuario	| User					|
-| Contraseña| **********			|
+| Data		      | Valor 				  |
+|-----------------|-----------------------|
+| IP (servidor)   | "localhost"-127.0.0.1 |
+| Puerto	      | 3306 (MySQL)		  |
+| Usuario	      | User			      |
+| Contraseña      | **********			  |
 
 ### Java
 
@@ -80,3 +82,5 @@ while(!rs.eof)
 }
 
 ```
+
+[Volever al inicio](README.md)
