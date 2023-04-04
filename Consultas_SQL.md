@@ -1,3 +1,5 @@
+[Página anterior](Modelado_BD.md)  
+
 ## Instrucciones SQL
 
 Las instrucciones SQL son instrucciones que se usan para los sistemas de administración de bases de datos. El lenguaje SQL provee elementos que permiten la creación de estas instrucciones 
@@ -35,3 +37,5 @@ DELETE FROM  Mattress_table WHERE brand_name = 'C';
 ### Referencias:
 
 https://aws.amazon.com/es/what-is/sql/
+
+[Página siguiente](Optimizacion_BD.md)

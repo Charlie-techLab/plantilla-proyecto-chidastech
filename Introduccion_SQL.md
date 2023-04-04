@@ -1,4 +1,5 @@
-[Página anterior](README.md)
+[Página anterior](README.md)  
+
 # SQL
 
 ## Definición: 
@@ -77,4 +78,4 @@ en cuenta porque su propiedad de exclusividad las convierte en previsibles en un
 1. **https://aws.amazon.com/es/what-is/sql/**
 2. **https://www.ibm.com/docs/es/informix-servers/12.10?topic=ssgu8g-12-1-0-com-ibm-ddi-doc-ids-ddi-182-htm**
 
-
+[Página siguiente](Modelado_BD.md)  
