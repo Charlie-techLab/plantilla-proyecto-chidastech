@@ -32,3 +32,6 @@ Para borrar una tabla sencillamente se usa la palabra clave DELETE FROM seguido 
 
 DELETE FROM  Mattress_table WHERE brand_name = 'C';
 
+### Referencias:
+
+https://aws.amazon.com/es/what-is/sql/
