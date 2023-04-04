@@ -72,7 +72,9 @@ Algunas entidades tienen claves primarias ya preparadas, como códigos de catál
 grupo de columnas como clave primaria. Todas las columnas o grupos que están cualificados para ser claves primarias se denominan claves candidatas. Todas las claves candidatas se deben tener
 en cuenta porque su propiedad de exclusividad las convierte en previsibles en una operación SELECT.
 
+### Referencias:
 
+https://aws.amazon.com/es/what-is/sql/
 
 
 
